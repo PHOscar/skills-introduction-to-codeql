@@ -1,5 +1,5 @@
 
-from flask import request, render_template, make_response
+from flask import request, render_template, make_response insecure2
 
 from server.webapp import flaskapp, cursor
 from server.models import Book
